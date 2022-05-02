@@ -24,10 +24,8 @@ for (( FGc=0 ; FGc < 8 ; FGc++ )) ; do
 
       # Background color
       for (( BGc=0 ; BGc < 8 ; BGc++ )) ; do
-
         BG=${BGe}${BGc} ;
-	printf "\e[${FG};${BG}m%3s;%-4s\e[0m" ${FG} ${BG} ;
-
+        printf "\e[${FG};${BG}m%3s;%-4s\e[0m" ${FG} ${BG} ;
       done ;
       echo ;
 
