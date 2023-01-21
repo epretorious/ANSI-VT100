@@ -1,7 +1,7 @@
 #!/bin/bash
 # Eric Pretorious <ericx.pretorious@intel.com> (May, 2022)
 #
-# Display ANSI colors
+# Display ANSI VT100 colors
 # https://www.shellhacks.com/bash-colors/
 # https://renenyffenegger.ch/notes/Linux/shell/ANSI-escape-sequences
 
