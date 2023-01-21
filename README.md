@@ -1,2 +1,2 @@
 # ANSI-VT100
-Prints the entire range of ANSI color escape codes.
+Prints the entire spectrum of ANSI Select Graphic Rendition parameters (i.e., escape codes).
